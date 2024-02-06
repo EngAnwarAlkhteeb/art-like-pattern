@@ -16,7 +16,7 @@ This Python script creates colorful and abstract art using the Turtle module.
 
 ## Example
 
-[![Random Turtle Art](example.png)](https://pin.it/5ILRNYeSV))
+[![Random Turtle Art](https://github.com/EngAnwarAlkhteeb/art-like-pattern/blob/main/Art.jpg)]
 
 
 ## Contributing
